@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "borlabs-cookie",
+      "value": "%7B%22consents%22%3A%7B%22essential%22%3A%5B%22borlabs-cookie%22%2C%22google-tag-manager%22%5D%2C%22statistics%22%3A%5B%22google-analytics%22%2C%22linkedin-insight-tag%22%5D%2C%22marketing%22%3A%5B%22hubspot%22%5D%2C%22external-media%22%3A%5B%22googlemaps%22%2C%22youtube%22%5D%7D%2C%22domainPath%22%3A%22mostly.ai%2F%22%2C%22expires%22%3A%22Mon%2C%2022%20Jan%202024%2016%3A42%3A42%20GMT%22%2C%22uid%22%3A%22h47vzhas-smokz2ba-2tdkfhlo-fuyfwkwu%22%2C%22version%22%3A%221%22%7D",
+      "domain": ".mostly.ai",
+      "path": "/",
+      "expires": 1705941762,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

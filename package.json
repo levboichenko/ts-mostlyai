@@ -1,0 +1,30 @@
+{
+  "name": "mostlyai",
+  "version": "1.0.0",
+  "description": "test assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --config=playwright.config.ts --headed",
+    "test:debug": "PWDEBUG=1 npx playwright test --config=playwright.config.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levboichenko/ts-mostlyai.git"
+  },
+  "author": "levBoichenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levboichenko/ts-mostlyai/issues"
+  },
+  "homepage": "https://github.com/levboichenko/ts-mostlyai#readme",
+  "dependencies": {
+    "playwright-chromium": "^1.29.2"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.29.2",
+    "@types/node": "^18.11.18",
+    "playwright": "^1.29.2",
+    "tracer": "1.1.6",
+    "@faker-js/faker": "7.5.0"
+  }
+}
